@@ -1,0 +1,22 @@
+.category {
+  font: inherit;
+  cursor: pointer;
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+.category:hover,
+.category:active {
+  background-color: #8a2b06;
+  border-color: #8a2b06;
+}
+
+.active {
+  background-color: #8a2b06;
+  border-color: #8a2b06;
+}
