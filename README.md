@@ -2,6 +2,8 @@
 
 ###### This template is from [a React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux) to help further develop my skills in React, I highly recommend this course - I have gone further than just the course too and added categories to the takeaway application
 
+![Screenshot of React Takeaway App Project](https://i.imgur.com/2Axv84O.png)
+
 ## Step 1
 
 ###### Clone the GitHub repository to your computer
